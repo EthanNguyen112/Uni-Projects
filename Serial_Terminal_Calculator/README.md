@@ -1,4 +1,3 @@
-# Uni-Projects
 # Serial Terminal Calculator
 
 A serial communication calculator program built on the 8051 microcontroller. This project interfaces with a PC terminal emulator to perform arithmetic operations in decimal, binary, and hexadecimal number systems.

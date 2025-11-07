@@ -1,5 +1,4 @@
 # Uni-Projects
-
 This repository showcases a collection of embedded systems and IoT projects developed during my university coursework.  
 Each project demonstrates skills in **C programming, hardware integration, automation, and system design** using various microcontrollers and development tools.
 
